@@ -1,7 +1,7 @@
 # Collection-for-CalorieCountingApp
 ## Description
 This collection of requests in Postman is made for interaction with the API available at the following link:
-[Link to API CalorieCountingApp](git@github.com:katemerek/CalorieCountingApp.git)
+[Link to API CalorieCountingApp](https://github.com/katemerek/CalorieCountingApp.git))
 ## How to use this collection?
 1. Ensure that you have Postman installed.
 2. Downloading the collection:
